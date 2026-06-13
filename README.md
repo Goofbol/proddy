@@ -1,4 +1,4 @@
-# Proddy
+# Proddy Agent
 
 A personal AI agent for product managers. It runs as its own identity, works your inbox and chat, and keeps you in the loop on anything that leaves the building.
 
@@ -38,6 +38,10 @@ Surfaces open loops and overdue commitments — the threads you said you'd close
 
 Running daily in private. This repo documents the design; a shareable reference implementation is being lifted out of the personal build. Open an issue if you're building something similar.
 
+## Contributing
+
+Ideas and design feedback are as welcome as code — this is a design repo first. Open an issue before a PR and describe the use case. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
